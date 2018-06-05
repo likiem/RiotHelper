@@ -25,11 +25,12 @@ namespace APITesting
             string apiCallChampionByID = @"lol/static-data/v3/champions/1";
             string apiKey = "?api_key=RGAPI-012d4171-9db4-4c5f-b8c8-d0877602287d";
 
+
             ChampionListStatic championList = GetAllChampions(apiKey);
             string summonerName = "ganklikegaston";
             Console.WriteLine("Welcome, The match history for summoner: {0}", summonerName);
 
-
+            string why = "";
             string apiCallSummonerByName = @"/lol/summoner/v3/summoners/by-name/" + summonerName;
 
             //string apiCallSummonerByName = @"/lol/summoner/v3/summoners/by-name/feedzlikegaston";
