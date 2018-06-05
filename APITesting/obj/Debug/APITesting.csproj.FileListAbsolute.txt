@@ -1,0 +1,17 @@
+C:\Users\20151174\Documents\Visual Studio 2015\Projects\APITesting\APITesting\bin\Debug\APITesting.exe.config
+C:\Users\20151174\Documents\Visual Studio 2015\Projects\APITesting\APITesting\bin\Debug\APITesting.exe
+C:\Users\20151174\Documents\Visual Studio 2015\Projects\APITesting\APITesting\bin\Debug\APITesting.pdb
+C:\Users\20151174\Documents\Visual Studio 2015\Projects\APITesting\APITesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\20151174\Documents\Visual Studio 2015\Projects\APITesting\APITesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\20151174\Documents\Visual Studio 2015\Projects\APITesting\APITesting\obj\Debug\APITesting.exe
+C:\Users\20151174\Documents\Visual Studio 2015\Projects\APITesting\APITesting\obj\Debug\APITesting.pdb
+C:\Users\20151174\Documents\Visual Studio 2015\Projects\APITesting\APITesting\obj\Debug\APITesting.csprojResolveAssemblyReference.cache
+C:\Users\mazu\Downloads\rito\APITesting\APITesting\bin\Debug\APITesting.exe.config
+C:\Users\mazu\Downloads\rito\APITesting\APITesting\bin\Debug\APITesting.exe
+C:\Users\mazu\Downloads\rito\APITesting\APITesting\bin\Debug\APITesting.pdb
+C:\Users\mazu\Downloads\rito\APITesting\APITesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mazu\Downloads\rito\APITesting\APITesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mazu\Downloads\rito\APITesting\APITesting\obj\Debug\APITesting.csprojResolveAssemblyReference.cache
+C:\Users\mazu\Downloads\rito\APITesting\APITesting\obj\Debug\APITesting.csproj.CoreCompileInputs.cache
+C:\Users\mazu\Downloads\rito\APITesting\APITesting\obj\Debug\APITesting.exe
+C:\Users\mazu\Downloads\rito\APITesting\APITesting\obj\Debug\APITesting.pdb
